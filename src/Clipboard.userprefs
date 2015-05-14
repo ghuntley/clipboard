@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Clipboard/Clipboard.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clipboard.iOS/Clipboard.cs">
+    <Files>
+      <File FileName="Clipboard/IClipboard.cs" Line="11" Column="18" />
+      <File FileName="Clipboard.iOS/Clipboard.cs" Line="16" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
